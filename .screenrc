@@ -1,0 +1,3 @@
+shell -${SHELL}
+maptimeout 5
+escape ^Jj
